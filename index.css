@@ -1,3 +1,4 @@
+
 ul {
       list-style-type: none;
       margin: 0;
@@ -58,6 +59,7 @@ li a {
       padding: 0.2px 120px; padding-right: 45px; padding-left: 45px;
       font-family: Arial, Helvetica, sans-serif;
       color: ivory;
+      margin: 0px;
      }
 
 
