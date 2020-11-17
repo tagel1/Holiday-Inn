@@ -1,0 +1,43 @@
+.pugi
+{
+    
+    text-align: center;
+    font-family: 'Guttman Adii';
+    width:19% ;
+    display: inline-block;
+    padding-right: 10px;
+    
+    box-shadow: 0 0 12px 0 #e2e2e2;
+    margin-top:50px ;
+    
+    padding-top: 10px;
+
+    
+}
+
+li a.active {
+    color: white;
+    background-color: #4CAF50;
+  }
+
+  li {
+    float: right;
+  }
+
+  li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 70px;
+    text-decoration: none;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+    border-bottom-width: 100px;
+
+}
