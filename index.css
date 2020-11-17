@@ -7,7 +7,8 @@ ul {
       border: 1px solid #e7e7e7;
       background-color: #f3f3f3;
  }
-
+    
+    
 li {
       float: right;
     }
@@ -31,3 +32,44 @@ li a {
       color: white;
       background-color: #4CAF50;
     }
+   #dills{
+     font-family: initial;
+     font-style: italic;
+     font-size: 300%;
+     color:#B8860B;
+     text-align: center;
+     padding: 60px 100px;
+   }
+
+
+    span b{
+
+      font-family: initial;
+      font-style: normal;
+      font-size: 180%;
+      text-align: center;
+      padding: 500px 100px;
+   }
+    #search{
+
+      font-size: 180%;
+      font-family: initial;
+      font-style: normal;
+      background-color: #4CAF50; justify-items: left;
+      border: 1px 50px solid #e7e7e7;border-style: outset;
+      padding: 0.2px 120px; padding-right: 45px; padding-left: 45px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: ivory;
+      margin: 0px;
+     }
+
+
+#places{
+  font-size: 160%; 
+text-align: center;
+
+
+
+
+
+}
