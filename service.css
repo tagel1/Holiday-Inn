@@ -5,6 +5,12 @@
     font-size: 19px;
 }
 
+body
+{
+    background-color: rgb(226, 226, 226);
+}
+
+
 .color
 {
     color: #ccac00;
@@ -14,10 +20,10 @@
 
 ul {
     list-style-type: none;
-    margin-bottom: 5%;
+    margin-bottom: 0%;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #e7e7e7;
+    border: 0px solid #e7e7e7;
     background-color: #f3f3f3;
     font-size: 120%;
 }
