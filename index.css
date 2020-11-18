@@ -1,14 +1,14 @@
 
 ul {
       list-style-type: none;
-      margin: 0;
+      margin-bottom: 5%;
       padding: 0;
       overflow: hidden;
       border: 1px solid #e7e7e7;
       background-color: #f3f3f3;
+      font-size: 120%;
  }
-    
-    
+ 
 li {
       float: right;
     }
@@ -32,25 +32,56 @@ li a {
       color: white;
       background-color: #4CAF50;
     }
+  .beach{
+
+
+
+    
+    width: 1665px;
+    height: 400px;
+    margin-top: 20px;
+
+  }
    #dills{
-     font-family: initial;
+     font-family: 'Journal CLM', serif;
      font-style: italic;
-     font-size: 300%;
-     color:#B8860B;
+     font-size: 400%;
+     color: black;
      text-align: center;
-     padding: 60px 100px;
    }
+   #dills2{
+    font-family: 'Journal CLM', serif;
+    font-style: italic;
+    font-size: 150%;
+    color: grey;
+
+    text-align: center;
+    padding: 60px 100px;
+   padding-bottom: 40px;
+   padding-top: 20px;
 
 
-    span b{
 
-      font-family: initial;
-      font-style: normal;
-      font-size: 180%;
-      text-align: center;
-      padding: 500px 100px;
+
    }
+.s{
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border-style: ridge;
+  font-family: initial;
+  font-size: 140%;
+  text-align: center;
+  margin-left: 120px;
+  padding-left: 150px;
+  margin-top: 50%;
+color: grey;
+
+}
+
+    
+   
     #search{
+      margin-right: 80px;
 
       font-size: 180%;
       font-family: initial;
@@ -58,15 +89,36 @@ li a {
       background-color: #4CAF50; justify-items: left;
       border: 1px 50px solid #e7e7e7;border-style: outset;
       padding: 0.2px 120px; padding-right: 45px; padding-left: 45px;
-      font-family: Arial, Helvetica, sans-serif;
+   
       color: ivory;
-      margin: 0px;
+      
      }
 
+     .pugi
+     {
+      margin-left: 67px;
+         text-align: center;
+         font-size: 25px;
+         widows: 10px;
+         display: inline-block;
+         padding-right: 10px;
+         box-shadow: 0 0 12px 0 #e2e2e2;
+         margin-top:20px ;
+         padding-top: 10px;    }
+     .pugi1
+     {
+      margin-left: 0px;
+         text-align: center;
+         font-size: 25px;
+         widows: 10px;
+         display: inline-block;
+         padding-right: 10px;
+         box-shadow: 0 0 12px 0 #e2e2e2;
+         margin-top:20px ;
+         padding-top: 10px; 
+         
+     }
 
-#places{
-  font-size: 160%; 
-text-align: center;
 
 
 
