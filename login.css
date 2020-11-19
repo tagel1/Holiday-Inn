@@ -32,18 +32,21 @@ body {
     cursor: pointer;
   }
 
-  input[type=button1], input[type=submit], input[type=reset] {
+  
+
+  input[type=button], input[type=submit], input[type=reset] {
     background-color: #4CAF50;
     text-align: center;
-    width:8%;
+    width: 15%;
     border: none;
     color: white;
-    padding: 6px 15px;
+    padding: 12px 15px;
     text-decoration: none;
-    margin: 0px 110px;
+    margin: 10px 80px;
     cursor: pointer;
   }
 
+   
   .margin{
       margin: 20px 55px;
   }
