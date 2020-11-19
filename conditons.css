@@ -1,4 +1,55 @@
 .conditions
 {
-    font-size: 100px;
+   
+    text-align:right;
+    font-size: 19px;
 }
+
+body
+{
+    background-color: rgb(226, 226, 226);
+}
+
+
+.color
+{
+    color: #ccac00;
+}
+
+ul {
+    list-style-type: none;
+    margin-bottom: 0%;
+    padding: 0;
+    overflow: hidden;
+    border: 0px solid #e7e7e7;
+    background-color: #f3f3f3;
+    font-size: 120%;
+}
+
+li {
+    float: right;
+  }
+  
+ 
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 70px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover:not(.active) {
+    background-color: rgb(61, 55, 55);
+  }
+  
+  
+  li a.active {
+    color: #666;
+    background-color: #4CAF50;
+  }
+
+
+  
+
