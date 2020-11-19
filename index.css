@@ -77,41 +77,49 @@ li a {
   color: grey;
 }
 
-
-
-.c{
-background-image:url('img.html/beach22.png');
-
-
-padding-top: 70px;
-width: 50px;
-height: 50px;
-margin-left: -20;
-margin-right: 5px;
-margin-left: 5px;
-padding-bottom: 410px;
-
-
-
-
-
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: white;
+  text-align: center;
+  width: 15%;
+  color: black;
+  padding: 4px 5px;
+  text-decoration: none;
+  margin: 5px 80px;
+  cursor: pointer;
+  border-style: outset;
+  font-size: 150%;
 }
 
+.round1 {
+  margin-left: 80px;
 
-   
-    #search{
-      margin-right: 1400px;
+background-color: white;
+color: white;
+}
 
-      font-size: 180%;
-      font-family: initial;
-      font-style: normal;
-      background-color: #4CAF50; justify-items: left;
-      border: 1px 50px solid #e7e7e7;border-style: outset;
-      padding: 0.2px 120px; padding-right: 45px; padding-left: 45px;
-   
-      color: ivory;
-      
-     }
+.round2 {
+  margin-left: 80px;
+
+  border: 2px solid rgb(5, 5, 5);
+  border-radius: 8px;
+}
+
+input[type=text] {
+  margin-bottom: 50px;
+   width: 15%;
+  padding: 12px 0px;
+ 
+ 
+}
+
+.sea1{
+  background-image: url('img.html/sea.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 8%;
+}
+
 
      .pugi
      {

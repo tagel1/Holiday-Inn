@@ -17,21 +17,29 @@ h1{
     font: 1em sans-serif;
 }
 
+
+li a.active {
+  color: #666;
+  background-color: #4CAF50;
+}
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  border: 1px solid #e7e7e7;
-  background-color: #dbdada;
-}
+  background-color: lightgray	;
+  
+  margin-top: 0px;
+  margin-bottom: 5px;
 
+  font-style: initial;
+  font-size: 150%;
+      list-style-type: none;
+      overflow: hidden;
+      border: 1px solid #e7e7e7;
 
+ }
+ 
 li {
-  float: right;
-}
-
-
+      float: right;
+    }
+       
 li a {
   display: block;
   color: #666;
@@ -46,7 +54,3 @@ li a:hover:not(.active) {
 }
 
 
-li a.active {
-  color: #666;
-  background-color: #4CAF50;
-}
