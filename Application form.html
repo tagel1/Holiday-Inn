@@ -21,7 +21,7 @@
         <form action="/action_page.php">
         <div class="row">
           <div class="col-25">
-            <label for="fname">שם פרטי</label>
+            <label for="fname"> שם פרטי <a class="color1">*</a></label>
           </div>
           <div class="col-75">
             <input type="text" id="fname" name="firstname" placeholder="שם פרטי...">
@@ -29,7 +29,7 @@
         </div>
         <div class="row">
           <div class="col-25">
-            <label for="lname">שם משפחה</label>
+            <label for="lname">שם משפחה <a class="color1">*</a></label>
           </div>
           <div class="col-75">
             <input type="text" id="lname" name="lastname" placeholder="שם משפחה...">
@@ -37,7 +37,7 @@
         </div>
         <div class="row">
             <div class="col-25">
-              <label for="lname">טלפון</label>
+              <label for="lname">טלפון <a class="color1">*</a></label>
             </div>
             <div class="col-75">
               <input type="text" id="lname" name="lastname" placeholder="טלפון...">
@@ -45,7 +45,7 @@
           </div>
           <div class="row">
             <div class="col-25">
-              <label for="lname">כתובת דוא"ל</label>
+              <label for="lname">כתובת דוא"ל <a class="color1">*</a></label>
             </div>
             <div class="col-75">
               <input type="text" id="lname" name="lastname" placeholder=" דוא''ל...">
@@ -61,12 +61,15 @@
           </div>
         <div class="row">
           <div class="col-25">
-            <label for="subject">נושא הפנייה</label>
+            <label for="subject">נושא הפנייה <a class="color1">*</a></label>
           </div>
+          
           <div class="col-75">
             <textarea id="subject" name="subject" placeholder="כתוב/י משהו..." style="height:200px"></textarea>
           </div>
         </div>
+        <br>
+        <div class="color1" dir="ltr">שדות חובה</div>
         <div class="row">
           <input type="submit" value="שלח">
         </div>
