@@ -1,0 +1,85 @@
+.product{
+    background-image:url('img.html/red.jpg');
+    background-repeat:repeat-x;
+    width:97%;
+    display: inline-block;
+   font-size:40px;
+   color: rgb(253, 252, 252);
+   text-align: right;
+   font-family:Arial, Verdana, Sans-serif;
+   height: 150px;
+   margin-right: 70px;
+   padding-right: 50px;
+   border-right-width: 80px;
+}
+.portlet-box {
+    display: inline-block;
+    border: 1px solid #e9e9e9;
+    box-shadow: 0 0 12px 0 #cf0a25;
+    height: 40%;
+    width: 30%;
+    margin-bottom:  right;
+}
+.namehotel{
+
+    padding-top: 30px;
+
+
+}
+
+.photo{
+    padding-left: 65%;
+    display: inline-block;
+    padding-left: 15%;
+
+    margin-inline: right;
+}
+.flight{
+    text-align: right;
+    border: 1px solid #f1f5f8;
+    width: 80%;
+    
+    margin-left: 16%;
+
+    box-shadow: 0 0 12px 0 #b5cbdb;
+    height: 20%;
+}
+.pt{
+    display: inline-block;
+    
+    width: 120px;
+
+}
+.details{
+    text-align: right;
+    font-family:Arial, Verdana, Sans-serif;
+    font-size:40px;
+    
+    margin-right:4%;
+
+}
+
+.ph{
+    
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: right;
+    vertical-align: inherit;
+}
+
+.text-ellipsis {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+
+    margin-right: 13px;
+    display: inline-block;
+}
+
+
+.israir{
+    display: inline-block;
+    margin-right: 40px;
+    
+    
+}
