@@ -10,6 +10,11 @@ ul {
       list-style-type: none;
       overflow: hidden;
       border: 1px solid #e7e7e7;
+<<<<<<< HEAD
+=======
+      background-color: #f3f3f3;
+      font-size: 120%;
+>>>>>>> 566762a01e7962b5ded3b74e17c318f305cb13c2
  }
  
 li {
@@ -35,7 +40,18 @@ li a {
       color: #666;
       background-color: #4CAF50;
     }
+<<<<<<< HEAD
   
+=======
+  .beach{
+
+
+
+    
+    width: 1665px;
+    height: 400px;
+    margin-top: 20px;
+>>>>>>> 566762a01e7962b5ded3b74e17c318f305cb13c2
 
    #dills{
      font-family: 'Journal CLM', serif;
@@ -137,6 +153,7 @@ padding-bottom: 410px;
          
      }
 
+<<<<<<< HEAD
 
 
 
@@ -144,3 +161,5 @@ padding-bottom: 410px;
 
    
   
+=======
+>>>>>>> 566762a01e7962b5ded3b74e17c318f305cb13c2
