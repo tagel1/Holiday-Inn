@@ -120,30 +120,112 @@ input[type=text] {
   padding: 8%;
 }
 
+.pugi
+       {
+          
+          text-align: center;
+          font-size: 18px;
+         display: inline-block;
+          box-shadow: 0 0 9px 0 #383030;
+          margin-top:5%;
+          margin-left: 1%;
+          margin-right: 3%;
+          padding-top: 2%;
+          
+          
 
-     .pugi
-     {
-      margin-left: 67px;
-         text-align: center;
-         font-size: 25px;
-         widows: 10px;
-         display: inline-block;
-         padding-right: 10px;
-         box-shadow: 0 0 12px 0 #e2e2e2;
-         margin-top:20px ;
-         padding-top: 10px;    }
-     .pugi1
-     {
-      margin-left: 0px;
-         text-align: center;
-         font-size: 25px;
-         widows: 10px;
-         display: inline-block;
-         padding-right: 10px;
-         box-shadow: 0 0 12px 0 #e2e2e2;
-         margin-top:20px ;
-         padding-top: 10px; 
          
      }
+
+
+.pugi1
+     {
+
+      margin-right: 120px;
+
+      margin-left: 0px;
+
+      width: 270px;
+   
+
+      text-align: center;
+      font-size: 18px;
+     display: inline-block;
+      box-shadow: 0 0 9px 0 #383030;
+    
+      height: 212px;
+      padding-top: 25px;
+      margin-top: 10px;
+      padding-bottom: 40px;
+  
+
+     }
+     .pugi2
+     {
+      margin-left: 0px;
+      margin-right: 0px;
+
+      width: 270px;
+   
+
+      text-align: center;
+      font-size: 18px;
+     display: inline-block;
+      box-shadow: 0 0 9px 0 #383030;
+    
+      height: 212px;
+      padding-top: 25px;
+      margin-top: 10px;
+      padding-bottom: 40px;
+
+
+     }
+     .pugi3
+     {
+      margin-left: 0px;
+      margin-right: 0px;
+
+      width: 270px;
+   
+
+      text-align: center;
+      font-size: 18px;
+     display: inline-block;
+      box-shadow: 0 0 9px 0 #383030;
+    
+      height: 212px;
+      padding-top: 25px;
+      margin-top: 10px;
+      padding-bottom: 40px;
+
+
+     }
+
+     .pugi4
+     {
+      margin-left: 0px;
+
+      margin-right: 120px;
+
+      width: 270px;
+   
+
+      text-align: center;
+      font-size: 18px;
+     display: inline-block;
+      box-shadow: 0 0 9px 0 #383030;
+    
+      height: 212px;
+      padding-top: 25px;
+      margin-top: 10px;
+      padding-bottom: 40px;
+
+
+     }
+     #dills3
+     {
+
+      margin-right: 120px;
+    }
 
 
