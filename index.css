@@ -1,16 +1,16 @@
 
 ul {
+  background-color: lightgray	;
+  
+  margin-top: 0px;
+  margin-bottom: 5px;
+
+  font-style: initial;
+  font-size: 150%;
       list-style-type: none;
-      margin-bottom: 5%;
-      padding: 0;
       overflow: hidden;
       border: 1px solid #e7e7e7;
-<<<<<<< HEAD
-      background-color: #f3f3f3;
-      font-size: 120%;
-=======
-      background-color: #dbdada;
->>>>>>> ca29ed9b063d0a092145b4d6395c9f38028c750d
+
  }
  
 li {
@@ -36,23 +36,16 @@ li a {
       color: #666;
       background-color: #4CAF50;
     }
-<<<<<<< HEAD
-  .beach{
 
 
-
-    
-    width: 1665px;
-    height: 400px;
-    margin-top: 20px;
-
-  }
    #dills{
      font-family: 'Journal CLM', serif;
      font-style: italic;
      font-size: 400%;
      color: black;
      text-align: center;
+     margin-top: 30px;
+
    }
    #dills2{
     font-family: 'Journal CLM', serif;
@@ -69,24 +62,45 @@ li a {
 
 
    }
-.s{
-  padding-bottom: 5px;
-  padding-top: 5px;
-  border-style: ridge;
-  font-family: initial;
-  font-size: 140%;
-  text-align: center;
-  margin-left: 120px;
-  padding-left: 150px;
-  margin-top: 50%;
-color: grey;
+   .line{
+    margin-right: 85px;
+
+     background-color: white;
+    padding-bottom: 5px;
+    padding-top: px;
+    border-style: ridge;
+    font-family: initial;
+    font-size: 140%;
+    text-align: center;
+    margin-left: 120px;
+    padding-left: 150px;
+  color: grey;
+}
+
+
+
+.c{
+background-image:url('img.html/beach22.png');
+
+
+padding-top: 70px;
+width: 50px;
+height: 50px;
+margin-left: -20;
+margin-right: 5px;
+margin-left: 5px;
+padding-bottom: 410px;
+
+
+
+
 
 }
 
-    
+
    
     #search{
-      margin-right: 80px;
+      margin-right: 1400px;
 
       font-size: 180%;
       font-family: initial;
@@ -125,49 +139,3 @@ color: grey;
      }
 
 
-
-
-
-
-}
-=======
-
-    #dills{
-        font-family: initial;
-        font-style: italic;
-        font-size: 300%;
-        color:#B8860B;
-        text-align: center;
-        padding: 60px 100px;
-      }
-   
-   
-      span b{
-   
-        font-family: initial;
-        font-style: normal;
-        font-size: 180%;
-        text-align: center;
-        padding: 0px 140px;
-     }
-      #search{
-   
-        font-size: 180%;
-        font-family: initial;
-        font-style: normal;
-        background-color: #4CAF50; justify-items: left;
-        border: 1px 50px solid #dfdede;border-style: outset;
-        padding: 0.2px 120px; padding-right: 45px; padding-left: 45px;
-        font-family: Arial, Helvetica, sans-serif;
-        color: ivory;
-        margin: 0px;
-       }
-  
-  
-       #places{
-           font-size: 160%; 
-         text-align: center;
-         
-         }
-  
->>>>>>> ca29ed9b063d0a092145b4d6395c9f38028c750d
