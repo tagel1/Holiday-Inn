@@ -78,23 +78,28 @@ li a {
 }
 
 input[type=button], input[type=submit], input[type=reset] {
-  background-color: #4CAF50;
+  background-color: white;
   text-align: center;
   width: 15%;
-  border: none;
-  color: white;
-  padding: 12px 5px;
+  color: black;
+  padding: 4px 5px;
   text-decoration: none;
   margin: 5px 80px;
   cursor: pointer;
+  border-style: outset;
+  font-size: 150%;
 }
 
 .round1 {
-  border: 2px solid  rgb(5, 5, 5);
-  border-radius: 8px;
+  margin-left: 80px;
+
+background-color: white;
+color: white;
 }
 
 .round2 {
+  margin-left: 80px;
+
   border: 2px solid rgb(5, 5, 5);
   border-radius: 8px;
 }
