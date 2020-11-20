@@ -3,32 +3,42 @@ li a.active {
     background-color: #4CAF50;
   }
   ul {
-    background-color: lightgray	;
-    
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #dbdada;
     margin-top: 0px;
-    margin-bottom: 5px;
+  }
+  .logo
+  {
+    color: #ccac00;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 246%;
+    margin-right: 130px;
+    margin-top: 0px;
+    
+    margin-bottom: 0px;
+  }
   
-    font-style: initial;
-    font-size: 150%;
-        list-style-type: none;
-        overflow: hidden;
-        border: 1px solid #e7e7e7;
   
-   }
-   
   li {
-        float: right;
-      }
-         
-li a {
+    float: right;
+  }
+  
+  
+  li a {
     display: block;
     color: #666;
     text-align: center;
     padding: 14px 70px;
     text-decoration: none;
+  
+    font-family: sans-serif;
+  
   }
   
- 
+  
   li a:hover:not(.active) {
     background-color: rgb(61, 55, 55);
   }
@@ -75,6 +85,7 @@ h1{
 .namehotel{
 
     padding-top: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 
 }
