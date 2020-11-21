@@ -1,12 +1,22 @@
 
   ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
     background-color: #dbdada;
+    margin-top: 0px;
   }
+  .logo
+{
+    color: #ccac00;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 246%;
+    margin-right: 130px;
+    margin-top: 0px;
+    
+    margin-bottom: 0px;
+}
   
   
   li {
@@ -20,6 +30,9 @@
     text-align: center;
     padding: 14px 70px;
     text-decoration: none;
+  
+    font-family: sans-serif;
+  
   }
   
   
@@ -100,12 +113,9 @@
       margin-top: 0;
     }
 }
-.color
-{
-    color: #ccac00;
-}
+
 
 .color1
 {
-    color:red;
+    color:rgb(31, 18, 18);
 }
