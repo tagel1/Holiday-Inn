@@ -150,6 +150,7 @@ li {
         
         
     }
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 li a:hover:not(.active) {
@@ -191,6 +192,11 @@ li a:hover:not(.active) {
   width: 70px;
 }
 =======
+=======
+.pugi img{
+  width: 100%;
+}
+>>>>>>> 2ab351b674143e8c7e12f8c32a2ce8e4de454a49
     .footerp{
       background-image:url('img.html/footer1.jpg');
       background-repeat:repeat-x;
