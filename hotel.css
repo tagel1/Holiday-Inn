@@ -150,7 +150,9 @@ li {
         
         
     }
-
+.pugi img{
+  width: 100%;
+}
     .footerp{
       background-image:url('img.html/footer1.jpg');
       background-repeat:repeat-x;
