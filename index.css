@@ -257,10 +257,12 @@ input[type=text] {
      }
      #dills3
      {
-
       margin-right: 120px;
     }
-
+    
+.footer{
+  margin-top: 100px;
+}
 .footerp{
   background-image:url('img.html/footer1.jpg');
   background-repeat:repeat-x;
