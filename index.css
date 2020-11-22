@@ -153,31 +153,10 @@ input[type=text] {
   padding: 8%;
 }
 
-.pugi
-       {
-          
-          text-align: center;
-          font-size: 18px;
-         display: inline-block;
-          box-shadow: 0 0 9px 0 #383030;
-          margin-top:5%;
-          margin-left: 1%;
-          margin-right: 3%;
-          padding-top: 2%;
-          
-          
-
-         
-     }
 
 
 .pugi1
      {
-
-      margin-right: 120px;
-
-      margin-left: 0px;
-
       width: 270px;
    
 
@@ -186,19 +165,38 @@ input[type=text] {
      display: inline-block;
       box-shadow: 0 0 9px 0 #383030;
     
-      height: 212px;
+      height: 300px;
+      padding-top: 25px;
+      margin-top: 10px;
+      margin-left: 10px;
+
+     }
+ .pugi2
+     {
+    
+
+      width: 270px;
+      margin-left: 10px;
+
+
+      text-align: center;
+      font-size: 18px;
+     display: inline-block;
+      box-shadow: 0 0 9px 0 #383030;
+    
+      height: 300px;
       padding-top: 25px;
       margin-top: 10px;
       padding-bottom: 40px;
+
+
+     }
+  .pugi4
+     {
   
 
-     }
-     .pugi2
-     {
-      margin-left: 0px;
-      margin-right: 0px;
-
       width: 270px;
+      margin-left: 120px;
    
 
       text-align: center;
@@ -206,59 +204,17 @@ input[type=text] {
      display: inline-block;
       box-shadow: 0 0 9px 0 #383030;
     
-      height: 212px;
+      height: 300px;
       padding-top: 25px;
       margin-top: 10px;
-      padding-bottom: 40px;
 
 
      }
-     .pugi3
-     {
-      margin-left: 0px;
-      margin-right: 0px;
-
-      width: 270px;
-   
-
-      text-align: center;
-      font-size: 18px;
-     display: inline-block;
-      box-shadow: 0 0 9px 0 #383030;
     
-      height: 212px;
-      padding-top: 25px;
-      margin-top: 10px;
-      padding-bottom: 40px;
-
-
-     }
-
-     .pugi4
-     {
-      margin-left: 0px;
-
-      margin-right: 120px;
-
-      width: 270px;
-   
-
-      text-align: center;
-      font-size: 18px;
-     display: inline-block;
-      box-shadow: 0 0 9px 0 #383030;
-    
-      height: 212px;
-      padding-top: 25px;
-      margin-top: 10px;
-      padding-bottom: 40px;
-
-
-     }
      #dills3
      {
+      margin-left: 20px;
 
-      margin-right: 120px;
     }
 
 .footerp{
