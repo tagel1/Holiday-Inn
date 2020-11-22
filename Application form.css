@@ -46,7 +46,7 @@
     background-color: #4CAF50;
   }
   
-  
+    
   .center {
     text-align: center;
   }
@@ -117,5 +117,47 @@
 
 .color1
 {
+<<<<<<< HEAD
     color:rgb(31, 18, 18);
+=======
+    color:rgb(250, 4, 4);
+>>>>>>> 64507818a075549767c6b172b9e4ebae56cf749c
 }
+
+
+.footerp{
+  background-image:url('img.html/footer1.jpg');
+  background-repeat:repeat-x;
+  width:97%;
+  height: 200px;
+  padding-right: 50px;
+  border-right-width: 80px;
+}
+.div-text{
+  display: inline-block;
+  width: 250px;
+
+}
+.text-footer{
+  text-align: right;
+  font-family:Arial, Verdana, Sans-serif;
+  color: rgb(253, 252, 252);
+  font-size:25px;
+}
+
+.ft{
+  text-align: right;
+  font-family:Arial, Verdana, Sans-serif;
+  color: rgb(250, 194, 194);
+  font-size:30px;
+<<<<<<< HEAD
+  margin-bottom: 8px;
+
+}
+.footer-div-p{
+  display: inline-block;
+  width: 70px;
+}
+=======
+  margin-bottom: 8px;}
+>>>>>>> 64507818a075549767c6b172b9e4ebae56cf749c

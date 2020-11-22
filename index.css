@@ -94,20 +94,7 @@ li {
 
 
    }
-   .line{
-    margin-right: 85px;
-
-     background-color: white;
-    padding-bottom: 5px;
-    padding-top: px;
-    border-style: ridge;
-    font-family: initial;
-    font-size: 140%;
-    text-align: center;
-    margin-left: 120px;
-    padding-left: 150px;
-  color: grey;
-}
+  
 
 input[type=button], input[type=submit], input[type=reset] {
   background-color: white;
@@ -213,10 +200,12 @@ input[type=text] {
     
      #dills3
      {
-      margin-left: 20px;
-
+      margin-right: 120px;
     }
-
+    
+.footer{
+  margin-top: 100px;
+}
 .footerp{
   background-image:url('img.html/footer1.jpg');
   background-repeat:repeat-x;
