@@ -34,7 +34,7 @@ li {
   {
       color: #ccac00;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-      font-size: 180%;
+      font-size: 246%;
       margin-right: 130px;
       margin-top: 0px;
       
@@ -87,7 +87,6 @@ ul {
     overflow: hidden;
     border: 0px solid #e7e7e7;
     background-color: #f3f3f3;
-    font-size: 120%;
 }
 
 li {
@@ -101,6 +100,7 @@ li a {
     text-align: center;
     padding: 14px 70px;
     text-decoration: none;
+    font-family: sans-serif;
   }
   
  
@@ -147,4 +147,105 @@ li a {
   }
 
   
+.footerp{
+  background-image:url('img.html/footer1.jpg');
+  background-repeat:repeat-x;
+  width:97%;
+  height: 200px;
+  padding-right: 50px;
+  border-right-width: 80px;
+}
+.div-text{
+  display: inline-block;
+  width: 250px;
 
+}
+.text-footer{
+  text-align: right;
+  font-family:Arial, Verdana, Sans-serif;
+  color: rgb(253, 252, 252);
+  font-size:25px;
+}
+
+.ft{
+  text-align: right;
+  font-family:Arial, Verdana, Sans-serif;
+  color: rgb(250, 194, 194);
+  font-size:30px;
+  margin-bottom: 8px;
+
+}
+.footer-div-p{
+  display: inline-block;
+  width: 70px;
+}
+ 
+
+
+  #dills{
+    font-family: 'Journal CLM', serif;
+    font-style: italic;
+    font-size: 400%;
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .line{
+    margin-right: 85px;
+
+     background-color: white;
+    padding-bottom: 5px;
+    padding-top: px;
+    border-style: ridge;
+    font-family: initial;
+    font-size: 140%;
+    text-align: center;
+    margin-left: 120px;
+    padding-left: 150px;
+  color: grey;
+}
+
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: white;
+  text-align: center;
+  width: 15%;
+  color: black;
+  padding: 4px 5px;
+  text-decoration: none;
+  margin: 5px 80px;
+  cursor: pointer;
+  border-style: outset;
+  font-size: 150%;
+}
+
+.round1 {
+  margin-left: 80px;
+
+background-color: white;
+color: white;
+}
+
+.round2 {
+  margin-left: 80px;
+
+  border: 2px solid rgb(5, 5, 5);
+  border-radius: 8px;
+}
+
+input[type=text] {
+  margin-bottom: 50px;
+   width: 15%;
+  padding: 12px 0px;
+ 
+ 
+}
+  .sea1{
+    background-image: url('img.html/sea.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin-top: 0%;
+    padding: 8%;
+  }
