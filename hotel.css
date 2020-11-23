@@ -169,25 +169,32 @@ width:250px ;
         box-shadow: 0 0 9px 0 #383030;
         margin-top:5%;
         padding-top: 2%;
-        
-        
+       
     }
 
 
 li a:hover:not(.active) {
   background-color: rgb(61, 55, 55);
 }
+
+
+
 .footer{
   margin-top: 100px;
+  width: 100%;
 }
+
 .footerp{
   background-image:url('img.html/footer1.jpg');
   background-repeat:repeat-x;
-  width:97%;
+  width:100%;
   height: 200px;
-  padding-right: 50px;
   border-right-width: 80px;
 }
+.divpo{
+  width: 16%;
+}
+
 .div-text{
   display: inline-block;
   width: 250px;
@@ -198,13 +205,18 @@ li a:hover:not(.active) {
   font-family:Arial, Verdana, Sans-serif;
   color: rgb(253, 252, 252);
   font-size:25px;
-}
+  margin-top: 25px;
 
+}
+.sar{
+  margin-left: 170px;
+}
 .ft{
   text-align: right;
   font-family:Arial, Verdana, Sans-serif;
   color: rgb(250, 194, 194);
   font-size:30px;
+  margin-right: 25px;
   margin-bottom: 8px;
 
 }
