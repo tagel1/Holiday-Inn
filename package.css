@@ -56,7 +56,7 @@ li a.active {
    font-family:Arial, Verdana, Sans-serif;
    height: 150px;
    
-   padding-right: 50px;
+   
    border-right-width: 80px;
 }
 .portlet-box {
@@ -85,10 +85,10 @@ h1{
     font-size:25px;
     background-color: #188824;
 }
-.phtyo-box{
-   
-}
+
 .namehotel{
+
+  margin-right: 50px;
 
     padding-top: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -171,35 +171,103 @@ h1{
     font-size: 20px; 
 
  }
- .footerp{
-    background-image:url('img.html/footer1.jpg');
-    background-repeat:repeat-x;
-    width:97%;
-    height: 200px;
-    padding-right: 50px;
-    border-right-width: 80px;
-  }
-  .div-text{
-    display: inline-block;
-    width: 250px;
-  
-  }
-  .text-footer{
-    text-align: right;
-    font-family:Arial, Verdana, Sans-serif;
-    color: rgb(253, 252, 252);
-    font-size:25px;
-  }
-  
-  .ft{
-    text-align: right;
-    font-family:Arial, Verdana, Sans-serif;
-    color: rgb(250, 194, 194);
-    font-size:30px;
-    margin-bottom: 8px;
-  
-  }
-  .footer-div-p{
-    display: inline-block;
-    width: 70px;
-  }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ .footer{
+  margin-top: 100px;
+  width: 100%;
+}
+
+.footerp{
+  background-image:url('img.html/footer1.jpg');
+  background-repeat:repeat-x;
+  width:100%;
+  height: 200px;
+  border-right-width: 80px;
+}
+.divpo{
+ 
+  margin-left: 84%;
+
+
+}
+
+.div-text{
+  display: inline-block;
+  width: 250px;
+
+}
+.text-footer{
+  text-align: right;
+  font-family:Arial, Verdana, Sans-serif;
+  color: rgb(253, 252, 252);
+  font-size:25px;
+  margin-top: 25px;
+
+}
+.sar{
+  margin-left: 170px;
+}
+.ft{
+  text-align: right;
+  font-family:Arial, Verdana, Sans-serif;
+  color: rgb(250, 194, 194);
+  font-size:30px;
+  margin-right: 25px;
+  margin-bottom: 8px;
+
+}
+.footer-div-p{
+  display: inline-block;
+  width: 70px;
+}
+    .footerp{
+      background-image:url('img.html/footer1.jpg');
+      background-repeat:repeat-x;
+      width:97%;
+      height: 200px;
+      padding-right: 50px;
+      border-right-width: 80px;
+    }
+    .div-text{
+      display: inline-block;
+      width: 250px;
+    
+    }
+    .text-footer{
+      text-align: right;
+      font-family:Arial, Verdana, Sans-serif;
+      color: rgb(253, 252, 252);
+      font-size:25px;
+    }
+    
+    .ft{
+      text-align: right;
+      font-family:Arial, Verdana, Sans-serif;
+      color: rgb(250, 194, 194);
+      font-size:30px;
+      margin-bottom: 8px;
+    
+    }
+    .footer-div-p{
+      display: inline-block;
+      width: 70px;
+    }
+   
+
