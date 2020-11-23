@@ -11,12 +11,6 @@ ul {
   width: 100%;
 }
 
-.con{
-  margin-right: 0px;
-   margin-left: 0px;
-   padding-left: 0px;
-   padding-right: 0px;
-}
 .logo
 {
   margin-left:171%;
@@ -56,11 +50,7 @@ li {
       background-color: #4CAF50;
     }
 
-    .col{
-      padding-right: 0px;
-      padding-left: 0px;
-      width: 100%;
-    }
+    
 
     /*sargel*/
     /*sargel*/
