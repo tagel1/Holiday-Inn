@@ -2,51 +2,32 @@
 ul {
   list-style-type: none;
   padding: 0;
+  margin: 0;
   overflow: hidden;
-  border: 1px solid #e7e7e7;
+  border: 0px solid #e7e7e7;
   background-color: #dbdada;
-  margin-top: 0px;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
+
 .logo
 {
+  margin-left:171%;
   color: #ccac00;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 246%;
-  margin-right: 130px;
-  margin-top: 0px;
-  
   margin-bottom: 0px;
+  margin-left: 0px;
+  display: inline-block;
+ 
+ 
 }
  
 li {
       float: right;
-    }
-    
-   
-    ul {
-      list-style-type: none;
-      padding: 0;
-      overflow: hidden;
-      border: 1px solid #e7e7e7;
-      background-color: #dbdada;
-      margin-top: 0px;
-    }
-    .logo
-  {
-      color: #ccac00;
-      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-      font-size: 246%;
-      margin-right: 130px;
-      margin-top: 0px;
       
-      margin-bottom: 0px;
-  }
-    
-    
-    li {
-      float: right;
     }
-    
+
     
     li a {
       display: block;
@@ -68,6 +49,7 @@ li {
       color: #666;
       background-color: #4CAF50;
     }
+
  #dills{
     font-family: 'Journal CLM', serif;
     font-style: italic;
