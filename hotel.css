@@ -172,9 +172,8 @@ width:250px ;
         
         
     }
-<<<<<<< HEAD
 
-<<<<<<< HEAD
+
 li a:hover:not(.active) {
   background-color: rgb(61, 55, 55);
 }
@@ -213,12 +212,6 @@ li a:hover:not(.active) {
   display: inline-block;
   width: 70px;
 }
-=======
-=======
-.pugi img{
-  width: 100%;
-}
->>>>>>> 2ab351b674143e8c7e12f8c32a2ce8e4de454a49
     .footerp{
       background-image:url('img.html/footer1.jpg');
       background-repeat:repeat-x;
@@ -252,4 +245,4 @@ li a:hover:not(.active) {
       width: 70px;
     }
    
->>>>>>> 64507818a075549767c6b172b9e4ebae56cf749c
+
