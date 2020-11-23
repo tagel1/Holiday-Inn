@@ -117,7 +117,11 @@
 
 .color1
 {
+<<<<<<< HEAD
+    color:rgb(31, 18, 18);
+=======
     color:rgb(250, 4, 4);
+>>>>>>> 64507818a075549767c6b172b9e4ebae56cf749c
 }
 
 
@@ -146,4 +150,14 @@
   font-family:Arial, Verdana, Sans-serif;
   color: rgb(250, 194, 194);
   font-size:30px;
+<<<<<<< HEAD
+  margin-bottom: 8px;
+
+}
+.footer-div-p{
+  display: inline-block;
+  width: 70px;
+}
+=======
   margin-bottom: 8px;}
+>>>>>>> 64507818a075549767c6b172b9e4ebae56cf749c

@@ -86,8 +86,11 @@ li a {
  
   
 
+<<<<<<< HEAD
+=======
    
 
+>>>>>>> 64507818a075549767c6b172b9e4ebae56cf749c
   .footerp{
     background-image:url('img.html/footer1.jpg');
     background-repeat:repeat-x;
@@ -114,6 +117,14 @@ li a {
     color: rgb(250, 194, 194);
     font-size:30px;
     margin-bottom: 8px;
+<<<<<<< HEAD
+  
+  }
+  .footer-div-p{
+    display: inline-block;
+    width: 70px;
+  }  
+=======
   
   }
   .footer-div-p{
@@ -193,4 +204,5 @@ li a {
 
 
 
+>>>>>>> 64507818a075549767c6b172b9e4ebae56cf749c
 
