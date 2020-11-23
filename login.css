@@ -1,9 +1,12 @@
-
 .color
 {
-    color: #ccac00;
-    margin: 20px 100px;
+  color: #ccac00;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 246%;
+  margin: 20px 75px;
 }
+ 
+
 
 body {
     background-image:url('img.html/beache1.jpg');
